@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuraSoftec.Desarollo.Domain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuraSoftec.Desarollo.Application", "src\AuraSoftec.Desarollo.Application\AuraSoftec.Desarollo.Application.csproj", "{AA4DA59F-9D39-4D07-9783-EAFB2B38A8E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuraSoftec.Desarollo.Persistence", "src\AuraSoftec.Desarollo.Persistensce\AuraSoftec.Desarollo.Persistence.csproj", "{FB09EE4C-407E-4A49-9E3A-EDC376BDA78D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuraSoftec.Desarollo.Persistence", "src\AuraSoftec.Desarollo.Persistence\AuraSoftec.Desarollo.Persistence.csproj", "{FB09EE4C-407E-4A49-9E3A-EDC376BDA78D}"
 	ProjectSection(ProjectDependencies) = postProject
 		{AA4DA59F-9D39-4D07-9783-EAFB2B38A8E7} = {AA4DA59F-9D39-4D07-9783-EAFB2B38A8E7}
 	EndProjectSection
