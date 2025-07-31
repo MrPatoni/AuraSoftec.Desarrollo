@@ -27,6 +27,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuraSoftec.Desarollo.Common", "src\AuraSoftec.Desarollo.Common\AuraSoftec.Desarollo.Common.csproj", "{747C069E-2C1B-4058-9CC9-1BFC8D4EA0B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuraSoftec.Desarollo.Api", "src\AuraSoftec.Desarollo.Api\AuraSoftec.Desarollo.Api\AuraSoftec.Desarollo.Api.csproj", "{76975477-C7E9-4D57-B803-F404B03F70DE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FB09EE4C-407E-4A49-9E3A-EDC376BDA78D} = {FB09EE4C-407E-4A49-9E3A-EDC376BDA78D}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
